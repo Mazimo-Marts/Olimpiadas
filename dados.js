@@ -20,4 +20,5 @@ let dados = [
     // Adicionar mais atletas do mundo.
     // {
     //     titulo: "Nome do Atleta", .... etc
+    //
 ];
