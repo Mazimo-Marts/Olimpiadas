@@ -17,4 +17,5 @@ let dados = [
         link: "https://pt.wikipedia.org/wiki/Rebeca_Andrade",
         tags: "ginástica"
     }
+    // Adicionar mais atletas do mundo.
 ];
